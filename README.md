@@ -20,7 +20,7 @@
 ```python
 class Otmane:
     role        = ["Data Scientist", "Full Stack Developer"]
-    location    = "🌍 Morocco"
+    location    = "🌍 France"
     portfolio   = "http://easymob.net"
 
     data_stack  = ["Python", "Pandas", "Scikit-learn", "TensorFlow", "PyTorch",
