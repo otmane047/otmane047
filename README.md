@@ -155,14 +155,13 @@ class Otmane:
 
 ## 📈 GitHub Stats
 
-<div align="center">
-[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=otmane047&theme=radical)](https://github.com/pranesh-2005/github-readme-stats-fast)
+![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=otmane047&theme=radical)
 <br/>
 ![otmane047's GitHub Stats](https://readme-stats-github.pages.dev/api?username=otmane047&theme=dark)
 <br/>
 ![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=otmane047&theme=dark)
 <br/>
-</div>
+
 ---
 
 ## 🏆 GitHub Trophies
