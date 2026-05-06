@@ -154,16 +154,11 @@ class Otmane:
 ---
 
 ## 📈 GitHub Stats
-
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=otmane047&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otmane047&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&langs_count=8"/>
-
-<br/>
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=otmane047&theme=midnight-purple&hide_border=true&background=0d1117&ring=a78bfa&fire=c084fc&currStreakLabel=a78bfa"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=otmane047&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otmane047&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&langs_count=8"/>
+  <br/>
+  <img width="70%" src="https://streak-stats.demolab.com?user=otmane047&theme=midnight-purple&hide_border=true&background=0d1117&ring=a78bfa&fire=c084fc&currStreakLabel=a78bfa"/>
 </div>
 
 ---
